@@ -1,0 +1,26 @@
+body {
+	height: 100vh;
+}
+
+.bigoldiv {
+	margin: auto;
+	width: 90%;
+}
+
+section {
+	/*position: relative;*/
+	/*height: 100%;*/
+	margin-bottom: 3em;
+	display: inline-block;
+}
+
+p {
+	color: black;
+	display: block;
+	margin: 1em;
+}
+
+img:hover {
+   -webkit-filter: invert(.9);
+   filter: invert(.9);
+}
